@@ -1,5 +1,7 @@
 # Eye Feature Clustering For Emotion Recognition
  Experimenting with Feature Clustering in the Eye Region, for Emotion Recognition.
+ 
+> **Note**: Not able to view the `ipynb`s? Please follow [these instructions](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11#issue-184473171). 
 
 ## Prereqs:
 - Python3
